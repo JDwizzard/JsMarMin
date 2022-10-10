@@ -46,3 +46,16 @@ body {
     /* flex: 1; */
     padding-right: 7px;
   }
+
+.add-order-btn {
+  display: flex;
+  box-shadow: 4px 4px 9px rgba(198, 198, 198, 0.36);
+  border-radius: 20px;
+  padding: 0.8rem 1rem;
+  color: #fff;
+  background: linear-gradient(90deg, #209cff 0%, #68e0cf 100%);
+  margin-bottom: 5px;
+  font-family: 'Muli', sans-serif;
+  font-size: 20pt;
+  display: flex;
+}
